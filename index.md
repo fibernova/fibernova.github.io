@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-# FiberNova
-=======
-welcome to niber noba
-test.
->>>>>>> 72e1ff7259802e73fe44d4384c5657b9337c778e
+FiberNova will be a full, feature filled Scratch "OS" that is completely cloud oriented. It is planned to have 4 apps - Mail and Contacts, Music, Composer, and Draw. As a team we've been able to take advantage of something we call a "Cloud Server" to make the dream a reality.  
